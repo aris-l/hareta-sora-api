@@ -3,78 +3,294 @@
         "CropsAcreage": {
             "Corn": {
                 "No1": {
-                    "Year": "",
-                    "Timestamp": "",
-                    "CropType": "",
-                    "Acreage": ""
+                    "Year": "2021",
+                    "Timestamp": "2021-12-31",
+                    "CropType": "玉米",
+                    "Acreage": "43320.00"
+                },
+                "No2": {
+                    "Year": "2020",
+                    "Timestamp": "2020-12-31",
+                    "CropType": "玉米",
+                    "Acreage": "41260.00"
+                },
+                "No3": {
+                    "Year": "2019",
+                    "Timestamp": "2019-12-31",
+                    "CropType": "玉米",
+                    "Acreage": "41280.00"
+                },
+                "No4": {
+                    "Year": "2018",
+                    "Timestamp": "2018-12-31",
+                    "CropType": "玉米",
+                    "Acreage": "42130.00"
+                },
+                "No5": {
+                    "Year": "2017",
+                    "Timestamp": "2017-12-31",
+                    "CropType": "玉米",
+                    "Acreage": "42400.00"
                 }
             },
             "Rapeseed": {
                 "No1": {
-                    "Year": "",
-                    "Timestamp": "",
-                    "CropType": "",
-                    "Acreage": ""
+                    "Year": "2021",
+                    "Timestamp": "2021-12-31",
+                    "CropType": "油菜籽",
+                    "Acreage": "6911.57"
+                },
+                "No2": {
+                    "Year": "2020",
+                    "Timestamp": "2020-12-31",
+                    "CropType": "油菜籽",
+                    "Acreage": "6764.72"
+                },
+                "No3": {
+                    "Year": "2019",
+                    "Timestamp": "2019-12-31",
+                    "CropType": "油菜籽",
+                    "Acreage": "6583.09"
+                },
+                "No4": {
+                    "Year": "2018",
+                    "Timestamp": "2018-12-31",
+                    "CropType": "油菜籽",
+                    "Acreage": "6550.61"
+                },
+                "No5": {
+                    "Year": "2017",
+                    "Timestamp": "2017-12-31",
+                    "CropType": "油菜籽",
+                    "Acreage": "6553.01"
                 }
             },
             "Peanuts": {
                 "No1": {
-                    "Year": "",
-                    "Timestamp": "",
-                    "CropType": "",
-                    "Acreage": ""
+                    "Year": "2021",
+                    "Timestamp": "2021-12-31",
+                    "CropType": "花生",
+                    "Acreage": "4750.00"
+                },
+                "No2": {
+                    "Year": "2020",
+                    "Timestamp": "2020-12-31",
+                    "CropType": "花生",
+                    "Acreage": "4730.83"
+                },
+                "No3": {
+                    "Year": "2019",
+                    "Timestamp": "2019-12-31",
+                    "CropType": "花生",
+                    "Acreage": "4633.48"
+                },
+                "No4": {
+                    "Year": "2018",
+                    "Timestamp": "2018-12-31",
+                    "CropType": "花生",
+                    "Acreage": "4619.66"
+                },
+                "No5": {
+                    "Year": "2017",
+                    "Timestamp": "2017-12-31",
+                    "CropType": "花生",
+                    "Acreage": "4607.66"
                 }
             }
         },
         "CropsPrice": {
             "Corn": {
                 "No1": {
-                    "Year": "",
-                    "Timestamp": "",
-                    "CropType": "",
-                    "Price": ""
+                    "Year": "2021",
+                    "Timestamp": "2021-12-31",
+                    "CropType": "玉米",
+                    "Price": "2700.00"
+                },
+                "No2": {
+                    "Year": "2020",
+                    "Timestamp": "2020-12-31",
+                    "CropType": "玉米",
+                    "Price": "2600.00"
+                },
+                "No3": {
+                    "Year": "2019",
+                    "Timestamp": "2019-12-31",
+                    "CropType": "玉米",
+                    "Price": "1864.00"
+                },
+                "No4": {
+                    "Year": "2018",
+                    "Timestamp": "2018-12-31",
+                    "CropType": "玉米",
+                    "Price": "1910.00"
+                },
+                "No5": {
+                    "Year": "2017",
+                    "Timestamp": "2017-12-31",
+                    "CropType": "玉米",
+                    "Price": "1656.00"
                 }
             },
             "Rapeseed": {
                 "No1": {
-                    "Year": "",
-                    "Timestamp": "",
-                    "CropType": "",
-                    "Price": ""
+                    "Year": "2021",
+                    "Timestamp": "2021-12-31",
+                    "CropType": "油菜籽",
+                    "Price": "6000.00"
+                },
+                "No2": {
+                    "Year": "2020",
+                    "Timestamp": "2020-12-31",
+                    "CropType": "油菜籽",
+                    "Price": "5000.00"
+                },
+                "No3": {
+                    "Year": "2019",
+                    "Timestamp": "2019-12-31",
+                    "CropType": "油菜籽",
+                    "Price": "4500.00"
+                },
+                "No4": {
+                    "Year": "2018",
+                    "Timestamp": "2018-12-31",
+                    "CropType": "油菜籽",
+                    "Price": "4200.00"
+                },
+                "No5": {
+                    "Year": "2017",
+                    "Timestamp": "2017-12-31",
+                    "CropType": "油菜籽",
+                    "Price": "3700.00"
                 }
             },
             "Peanuts": {
                 "No1": {
-                    "Year": "",
-                    "Timestamp": "",
-                    "CropType": "",
-                    "Price": ""
+                    "Year": "2021",
+                    "Timestamp": "2021-12-31",
+                    "CropType": "花生",
+                    "Price": "7300.00"
+                },
+                "No2": {
+                    "Year": "2020",
+                    "Timestamp": "2020-12-31",
+                    "CropType": "花生",
+                    "Price": "8766.70"
+                },
+                "No3": {
+                    "Year": "2019",
+                    "Timestamp": "2019-12-31",
+                    "CropType": "花生",
+                    "Price": "7535.60"
+                },
+                "No4": {
+                    "Year": "2018",
+                    "Timestamp": "2018-12-31",
+                    "CropType": "花生",
+                    "Price": "5744.40"
+                },
+                "No5": {
+                    "Year": "2017",
+                    "Timestamp": "2017-12-31",
+                    "CropType": "花生",
+                    "Price": "6766.70"
                 }
             }
         },
         "CropsProdCap": {
             "Corn": {
                 "No1": {
-                    "Year": "",
-                    "Timestamp": "",
-                    "CropType": "",
-                    "ProdCap": ""
+                    "Year": "2021",
+                    "Timestamp": "2021-12-31",
+                    "CropType": "玉米",
+                    "ProdCap": "27255.06"
+                },
+                "No2": {
+                    "Year": "2020",
+                    "Timestamp": "2020-12-31",
+                    "CropType": "玉米",
+                    "ProdCap": "26066.52"
+                },
+                "No3": {
+                    "Year": "2019",
+                    "Timestamp": "2019-12-31",
+                    "CropType": "玉米",
+                    "ProdCap": "26077.89"
+                },
+                "No4": {
+                    "Year": "2018",
+                    "Timestamp": "2018-12-31",
+                    "CropType": "玉米",
+                    "ProdCap": "25717.39"
+                },
+                "No5": {
+                    "Year": "2017",
+                    "Timestamp": "2017-12-31",
+                    "CropType": "玉米",
+                    "ProdCap": "25907.07"
                 }
             },
             "Rapeseed": {
                 "No1": {
-                    "Year": "",
-                    "Timestamp": "",
-                    "CropType": "",
-                    "ProdCap": ""
+                    "Year": "2021",
+                    "Timestamp": "2021-12-31",
+                    "CropType": "油菜籽",
+                    "ProdCap": "1471.35"
+                },
+                "No2": {
+                    "Year": "2020",
+                    "Timestamp": "2020-12-31",
+                    "CropType": "油菜籽",
+                    "ProdCap": "1404.91"
+                },
+                "No3": {
+                    "Year": "2019",
+                    "Timestamp": "2019-12-31",
+                    "CropType": "油菜籽",
+                    "ProdCap": "1348.47"
+                },
+                "No4": {
+                    "Year": "2018",
+                    "Timestamp": "2018-12-31",
+                    "CropType": "油菜籽",
+                    "ProdCap": "1328.12"
+                },
+                "No5": {
+                    "Year": "2017",
+                    "Timestamp": "2017-12-31",
+                    "CropType": "油菜籽",
+                    "ProdCap": "1327.41"
                 }
             },
             "Peanuts": {
                 "No1": {
-                    "Year": "",
-                    "Timestamp": "",
-                    "CropType": "",
-                    "ProdCap": ""
+                    "Year": "2021",
+                    "Timestamp": "2021-12-31",
+                    "CropType": "花生",
+                    "ProdCap": "1830.78"
+                },
+                "No2": {
+                    "Year": "2020",
+                    "Timestamp": "2020-12-31",
+                    "CropType": "花生",
+                    "ProdCap": "1799.27"
+                },
+                "No3": {
+                    "Year": "2019",
+                    "Timestamp": "2019-12-31",
+                    "CropType": "花生",
+                    "ProdCap": "1751.96"
+                },
+                "No4": {
+                    "Year": "2018",
+                    "Timestamp": "2018-12-31",
+                    "CropType": "花生",
+                    "ProdCap": "1733.20"
+                },
+                "No5": {
+                    "Year": "2017",
+                    "Timestamp": "2017-12-31",
+                    "CropType": "花生",
+                    "ProdCap": "1709.19"
                 }
             }
         }
@@ -83,110 +299,422 @@
         "OilProdCap": {
             "Corn": {
                 "No1": {
-                    "Year": "",
-                    "Timestamp": "",
-                    "OilType": "",
-                    "ProdCap": ""
-                }
+                    "Year": "2021",
+                    "Timestamp": "2021-12-31",
+                    "OilType": "玉米油",
+                    "ProdCap": "164.00"
+                },
+                "No2": {
+                    "Year": "2020",
+                    "Timestamp": "2020-12-31",
+                    "OilType": "玉米油",
+                    "ProdCap": "150.00"
+                },
+                "No3": {
+                    "Year": "2019",
+                    "Timestamp": "2019-12-31",
+                    "OilType": "玉米油",
+                    "ProdCap": "135.00"
+                },
+                "No4": {
+                    "Year": "2018",
+                    "Timestamp": "2018-12-31",
+                    "OilType": "玉米油",
+                    "ProdCap": "130.00"
+                },
+                "No5": {
+                    "Year": "2017",
+                    "Timestamp": "2017-12-31",
+                    "OilType": "玉米油",
+                    "ProdCap": "128.40"
+                }                
             },
             "Rapeseed": {
                 "No1": {
-                    "Year": "",
-                    "Timestamp": "",
-                    "OilType": "",
-                    "ProdCap": ""
+                    "Year": "2021",
+                    "Timestamp": "2021-12-31",
+                    "OilType": "菜籽油",
+                    "ProdCap": "656.32"
+                },
+                "No2": {
+                    "Year": "2020",
+                    "Timestamp": "2020-12-31",
+                    "OilType": "菜籽油",
+                    "ProdCap": "553.60"
+                },
+                "No3": {
+                    "Year": "2019",
+                    "Timestamp": "2019-12-31",
+                    "OilType": "菜籽油",
+                    "ProdCap": "634.80"
+                },
+                "No4": {
+                    "Year": "2018",
+                    "Timestamp": "2018-12-31",
+                    "OilType": "菜籽油",
+                    "ProdCap": "625.70"
+                },
+                "No5": {
+                    "Year": "2017",
+                    "Timestamp": "2017-12-31",
+                    "OilType": "菜籽油",
+                    "ProdCap": "596.25"
                 }
             },
             "Peanuts": {
                 "No1": {
-                    "Year": "",
-                    "Timestamp": "",
-                    "OilType": "",
-                    "ProdCap": ""
+                    "Year": "2021",
+                    "Timestamp": "2021-12-31",
+                    "OilType": "花生油",
+                    "ProdCap": "345.00"
+                },
+                "No2": {
+                    "Year": "2020",
+                    "Timestamp": "2020-12-31",
+                    "OilType": "花生油",
+                    "ProdCap": "288.20"
+                },
+                "No3": {
+                    "Year": "2019",
+                    "Timestamp": "2019-12-31",
+                    "OilType": "花生油",
+                    "ProdCap": "276.90"
+                },
+                "No4": {
+                    "Year": "2018",
+                    "Timestamp": "2018-12-31",
+                    "OilType": "花生油",
+                    "ProdCap": "274.70"
+                },
+                "No5": {
+                    "Year": "2017",
+                    "Timestamp": "2017-12-31",
+                    "OilType": "花生油",
+                    "ProdCap": "247.90"
                 }
             }
         },
         "OilPrice": {
             "Corn": {
                 "No1": {
-                    "Year": "",
-                    "Timestamp": "",
-                    "OilType": "",
-                    "Price": ""
+                    "Year": "2021",
+                    "Timestamp": "2021-12-31",
+                    "OilType": "玉米油",
+                    "Price": "12800.00"
+                },
+                "No2": {
+                    "Year": "2020",
+                    "Timestamp": "2020-12-31",
+                    "OilType": "玉米油",
+                    "Price": "9900.00"
+                },
+                "No3": {
+                    "Year": "2019",
+                    "Timestamp": "2019-12-31",
+                    "OilType": "玉米油",
+                    "Price": "8500.00"
+                },
+                "No4": {
+                    "Year": "2018",
+                    "Timestamp": "2018-12-31",
+                    "OilType": "玉米油",
+                    "Price": "5800.00"
+                },
+                "No5": {
+                    "Year": "2017",
+                    "Timestamp": "2017-12-31",
+                    "OilType": "玉米油",
+                    "Price": "1656.00"
                 }
             },
             "Rapeseed": {
                 "No1": {
-                    "Year": "",
-                    "Timestamp": "",
-                    "OilType": "",
-                    "Price": ""
+                    "Year": "2021",
+                    "Timestamp": "2021-12-31",
+                    "OilType": "菜籽油",
+                    "Price": "10860.00"
+                },
+                "No2": {
+                    "Year": "2020",
+                    "Timestamp": "2020-12-31",
+                    "OilType": "菜籽油",
+                    "Price": "8547.00"
+                },
+                "No3": {
+                    "Year": "2019",
+                    "Timestamp": "2019-12-31",
+                    "OilType": "菜籽油",
+                    "Price": "7127.00"
+                },
+                "No4": {
+                    "Year": "2018",
+                    "Timestamp": "2018-12-31",
+                    "OilType": "菜籽油",
+                    "Price": "6400.00"
+                },
+                "No5": {
+                    "Year": "2017",
+                    "Timestamp": "2017-12-31",
+                    "OilType": "菜籽油",
+                    "Price": "6606.00"
                 }
             },
             "Peanuts": {
                 "No1": {
-                    "Year": "",
-                    "Timestamp": "",
-                    "OilType": "",
-                    "Price": ""
+                    "Year": "2021",
+                    "Timestamp": "2021-12-31",
+                    "OilType": "花生油",
+                    "Price": "25210.00"
+                },
+                "No2": {
+                    "Year": "2020",
+                    "Timestamp": "2020-12-31",
+                    "OilType": "花生油",
+                    "Price": "26020.00"
+                },
+                "No3": {
+                    "Year": "2019",
+                    "Timestamp": "2019-12-31",
+                    "OilType": "花生油",
+                    "Price": "24950.00"
+                },
+                "No4": {
+                    "Year": "2018",
+                    "Timestamp": "2018-12-31",
+                    "OilType": "花生油",
+                    "Price": "24000.00"
+                },
+                "No5": {
+                    "Year": "2017",
+                    "Timestamp": "2017-12-31",
+                    "OilType": "花生油",
+                    "Price": "23000.00"
                 }
             }
         },
         "OilSalesVol": {
             "Corn": {
                 "No1": {
-                    "Year": "",
-                    "Timestamp": "",
-                    "OilType": "",
-                    "SalesVol": ""
+                    "Year": "2021",
+                    "Timestamp": "2021-12-31",
+                    "OilType": "玉米油",
+                    "SalesVol": "132.00"
+                },
+                "No2": {
+                    "Year": "2020",
+                    "Timestamp": "2020-12-31",
+                    "OilType": "玉米油",
+                    "SalesVol": "131.00"
+                },
+                "No3": {
+                    "Year": "2019",
+                    "Timestamp": "2019-12-31",
+                    "OilType": "玉米油",
+                    "SalesVol": "130.00"
+                },
+                "No4": {
+                    "Year": "2018",
+                    "Timestamp": "2018-12-31",
+                    "OilType": "玉米油",
+                    "SalesVol": "129.10"
+                },
+                "No5": {
+                    "Year": "2017",
+                    "Timestamp": "2017-12-31",
+                    "OilType": "玉米油",
+                    "SalesVol": "128.40"
                 }
             },
             "Rapeseed": {
                 "No1": {
-                    "Year": "",
-                    "Timestamp": "",
-                    "OilType": "",
-                    "SalesVol": ""
+                    "Year": "2021",
+                    "Timestamp": "2021-12-31",
+                    "OilType": "菜籽油",
+                    "SalesVol": "1647.00"
+                },
+                "No2": {
+                    "Year": "2020",
+                    "Timestamp": "2020-12-31",
+                    "OilType": "菜籽油",
+                    "SalesVol": "1513.00"
+                },
+                "No3": {
+                    "Year": "2019",
+                    "Timestamp": "2019-12-31",
+                    "OilType": "菜籽油",
+                    "SalesVol": "1509.00"
+                },
+                "No4": {
+                    "Year": "2018",
+                    "Timestamp": "2018-12-31",
+                    "OilType": "菜籽油",
+                    "SalesVol": "1456.00"
+                },
+                "No5": {
+                    "Year": "2017",
+                    "Timestamp": "2017-12-31",
+                    "OilType": "菜籽油",
+                    "SalesVol": "1401.00"
                 }
             },
             "Peanuts": {
                 "No1": {
-                    "Year": "",
-                    "Timestamp": "",
-                    "OilType": "",
-                    "SalesVol": ""
+                    "Year": "2021",
+                    "Timestamp": "2021-12-31",
+                    "OilType": "花生油",
+                    "SalesVol": "318.80"
+                },
+                "No2": {
+                    "Year": "2020",
+                    "Timestamp": "2020-12-31",
+                    "OilType": "花生油",
+                    "SalesVol": "317.50"
+                },
+                "No3": {
+                    "Year": "2019",
+                    "Timestamp": "2019-12-31",
+                    "OilType": "花生油",
+                    "SalesVol": "338.20"
+                },
+                "No4": {
+                    "Year": "2018",
+                    "Timestamp": "2018-12-31",
+                    "OilType": "花生油",
+                    "SalesVol": "309.100"
+                },
+                "No5": {
+                    "Year": "2017",
+                    "Timestamp": "2017-12-31",
+                    "OilType": "花生油",
+                    "SalesVol": "296.60"
                 }
             }
         },
         "OilCons": {
             "Corn": {
                 "No1": {
-                    "Year": "",
-                    "Timestamp": "",
-                    "OilType": "",
-                    "cons_top1": "",
-                    "cons_top2": "",
-                    "cons_top3": ""
+                    "Year": "2021",
+                    "Timestamp": "2021-12-31",
+                    "OilType": "玉米油",
+                    "cons_top1": "华东",
+                    "cons_top2": "华中",
+                    "cons_top3": "华北"
+                },
+                "No2": {
+                    "Year": "2020",
+                    "Timestamp": "2020-12-31",
+                    "OilType": "玉米油",
+                    "cons_top1": "华东",
+                    "cons_top2": "华中",
+                    "cons_top3": "华北"
+                },
+                "No3": {
+                    "Year": "2019",
+                    "Timestamp": "2019-12-31",
+                    "OilType": "玉米油",
+                    "cons_top1": "华东",
+                    "cons_top2": "华中",
+                    "cons_top3": "华北"
+                },
+                "No4": {
+                    "Year": "2018",
+                    "Timestamp": "2018-12-31",
+                    "OilType": "玉米油",
+                    "cons_top1": "华东",
+                    "cons_top2": "华中",
+                    "cons_top3": "华北"
+                },
+                "No5": {
+                    "Year": "2017",
+                    "Timestamp": "2017-12-31",
+                    "OilType": "玉米油",
+                    "cons_top1": "华东",
+                    "cons_top2": "华中",
+                    "cons_top3": "华北"
                 }
             },
             "Rapeseed": {
                 "No1": {
-                    "Year": "",
-                    "Timestamp": "",
-                    "OilType": "",
-                    "cons_top1": "",
-                    "cons_top2": "",
-                    "cons_top3": ""
+                    "Year": "2021",
+                    "Timestamp": "2021-12-31",
+                    "OilType": "菜籽油",
+                    "cons_top1": "华东",
+                    "cons_top2": "华中",
+                    "cons_top3": "华北"
+                },
+                "No2": {
+                    "Year": "2020",
+                    "Timestamp": "2020-12-31",
+                    "OilType": "菜籽油",
+                    "cons_top1": "华东",
+                    "cons_top2": "华中",
+                    "cons_top3": "华北"
+                },
+                "No3": {
+                    "Year": "2019",
+                    "Timestamp": "2019-12-31",
+                    "OilType": "菜籽油",
+                    "cons_top1": "华东",
+                    "cons_top2": "华中",
+                    "cons_top3": "华北"
+                },
+                "No4": {
+                    "Year": "2018",
+                    "Timestamp": "2018-12-31",
+                    "OilType": "菜籽油",
+                    "cons_top1": "华东",
+                    "cons_top2": "华中",
+                    "cons_top3": "华北"
+                },
+                "No5": {
+                    "Year": "2017",
+                    "Timestamp": "2017-12-31",
+                    "OilType": "菜籽油",
+                    "cons_top1": "华东",
+                    "cons_top2": "华中",
+                    "cons_top3": "华北"
                 }
             },
             "Peanuts": {
                 "No1": {
-                    "Year": "",
-                    "Timestamp": "",
-                    "OilType": "",
-                    "cons_top1": "",
-                    "cons_top2": "",
-                    "cons_top3": ""
+                    "Year": "2021",
+                    "Timestamp": "2021-12-31",
+                    "OilType": "花生油",
+                    "cons_top1": "华东",
+                    "cons_top2": "华中",
+                    "cons_top3": "华北"
+                },
+                "No2": {
+                    "Year": "2020",
+                    "Timestamp": "2020-12-31",
+                    "OilType": "花生油",
+                    "cons_top1": "华东",
+                    "cons_top2": "华中",
+                    "cons_top3": "华北"
+                },
+                "No3": {
+                    "Year": "2019",
+                    "Timestamp": "2019-12-31",
+                    "OilType": "花生油",
+                    "cons_top1": "华东",
+                    "cons_top2": "华中",
+                    "cons_top3": "华北"
+                },
+                "No4": {
+                    "Year": "2018",
+                    "Timestamp": "2018-12-31",
+                    "OilType": "花生油",
+                    "cons_top1": "华东",
+                    "cons_top2": "华中",
+                    "cons_top3": "华北"
+                },
+                "No5": {
+                    "Year": "2017",
+                    "Timestamp": "2017-12-31",
+                    "OilType": "花生油",
+                    "cons_top1": "华东",
+                    "cons_top2": "华中",
+                    "cons_top3": "华北"
                 }
             }
         }
@@ -194,26 +722,98 @@
     "BrandSalesVol": {
         "Arawana": {
             "No1": {
-                "Year": "",
-                "Timestamp": "",
-                "Brand": "",
-                "SalesVol": ""
+                "Year": "2021",
+                "Timestamp": "2021-12-31",
+                "Brand": "金龙鱼",
+                "SalesVol": "null"
+            },
+            "No2": {
+                "Year": "2020",
+                "Timestamp": "2020-12-31",
+                "Brand": "金龙鱼",
+                "SalesVol": "null"
+            },
+            "No3": {
+                "Year": "2019",
+                "Timestamp": "2019-12-31",
+                "Brand": "金龙鱼",
+                "SalesVol": "null"
+            },
+            "No4": {
+                "Year": "2018",
+                "Timestamp": "2018-12-31",
+                "Brand": "金龙鱼",
+                "SalesVol": "null"
+            },
+            "No5": {
+                "Year": "2017",
+                "Timestamp": "2017-12-31",
+                "Brand": "金龙鱼",
+                "SalesVol": "null"
             }
         },
         "LuHua": {
             "No1": {
-                "Year": "",
-                "Timestamp": "",
-                "Brand": "",
-                "SalesVol": ""
+                "Year": "2021",
+                "Timestamp": "2021-12-31",
+                "Brand": "鲁花",
+                "SalesVol": "null"
+            },
+            "No2": {
+                "Year": "2020",
+                "Timestamp": "2020-12-31",
+                "Brand": "鲁花",
+                "SalesVol": "null"
+            },
+            "No3": {
+                "Year": "2019",
+                "Timestamp": "2019-12-31",
+                "Brand": "鲁花",
+                "SalesVol": "null"
+            },
+            "No4": {
+                "Year": "2018",
+                "Timestamp": "2018-12-31",
+                "Brand": "鲁花",
+                "SalesVol": "null"
+            },
+            "No5": {
+                "Year": "2017",
+                "Timestamp": "2017-12-31",
+                "Brand": "鲁花",
+                "SalesVol": "null"
             }
         },
         "FuLinMen": {
             "No1": {
-                "Year": "",
-                "Timestamp": "",
-                "Brand": "",
-                "SalesVol": ""
+                "Year": "2021",
+                "Timestamp": "2021-12-31",
+                "Brand": "福临门",
+                "SalesVol": "null"
+            },
+            "No2": {
+                "Year": "2020",
+                "Timestamp": "2020-12-31",
+                "Brand": "福临门",
+                "SalesVol": "null"
+            },
+            "No3": {
+                "Year": "2019",
+                "Timestamp": "2019-12-31",
+                "Brand": "福临门",
+                "SalesVol": "null"
+            },
+            "No4": {
+                "Year": "2018",
+                "Timestamp": "2018-12-31",
+                "Brand": "福临门",
+                "SalesVol": "null"
+            },
+            "No5": {
+                "Year": "2017",
+                "Timestamp": "2017-12-31",
+                "Brand": "福临门",
+                "SalesVol": "null"
             }
         }
     }
