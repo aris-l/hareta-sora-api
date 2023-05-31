@@ -1,0 +1,220 @@
+{
+    "Crops": {
+        "CropsAcreage": {
+            "Corn": {
+                "No1": {
+                    "Year": "",
+                    "Timestamp": "",
+                    "CropType": "",
+                    "Acreage": ""
+                }
+            },
+            "Rapeseed": {
+                "No1": {
+                    "Year": "",
+                    "Timestamp": "",
+                    "CropType": "",
+                    "Acreage": ""
+                }
+            },
+            "Peanuts": {
+                "No1": {
+                    "Year": "",
+                    "Timestamp": "",
+                    "CropType": "",
+                    "Acreage": ""
+                }
+            }
+        },
+        "CropsPrice": {
+            "Corn": {
+                "No1": {
+                    "Year": "",
+                    "Timestamp": "",
+                    "CropType": "",
+                    "Price": ""
+                }
+            },
+            "Rapeseed": {
+                "No1": {
+                    "Year": "",
+                    "Timestamp": "",
+                    "CropType": "",
+                    "Price": ""
+                }
+            },
+            "Peanuts": {
+                "No1": {
+                    "Year": "",
+                    "Timestamp": "",
+                    "CropType": "",
+                    "Price": ""
+                }
+            }
+        },
+        "CropsProdCap": {
+            "Corn": {
+                "No1": {
+                    "Year": "",
+                    "Timestamp": "",
+                    "CropType": "",
+                    "ProdCap": ""
+                }
+            },
+            "Rapeseed": {
+                "No1": {
+                    "Year": "",
+                    "Timestamp": "",
+                    "CropType": "",
+                    "ProdCap": ""
+                }
+            },
+            "Peanuts": {
+                "No1": {
+                    "Year": "",
+                    "Timestamp": "",
+                    "CropType": "",
+                    "ProdCap": ""
+                }
+            }
+        }
+    },
+    "Oil": {
+        "OilProdCap": {
+            "Corn": {
+                "No1": {
+                    "Year": "",
+                    "Timestamp": "",
+                    "OilType": "",
+                    "ProdCap": ""
+                }
+            },
+            "Rapeseed": {
+                "No1": {
+                    "Year": "",
+                    "Timestamp": "",
+                    "OilType": "",
+                    "ProdCap": ""
+                }
+            },
+            "Peanuts": {
+                "No1": {
+                    "Year": "",
+                    "Timestamp": "",
+                    "OilType": "",
+                    "ProdCap": ""
+                }
+            }
+        },
+        "OilPrice": {
+            "Corn": {
+                "No1": {
+                    "Year": "",
+                    "Timestamp": "",
+                    "OilType": "",
+                    "Price": ""
+                }
+            },
+            "Rapeseed": {
+                "No1": {
+                    "Year": "",
+                    "Timestamp": "",
+                    "OilType": "",
+                    "Price": ""
+                }
+            },
+            "Peanuts": {
+                "No1": {
+                    "Year": "",
+                    "Timestamp": "",
+                    "OilType": "",
+                    "Price": ""
+                }
+            }
+        },
+        "OilSalesVol": {
+            "Corn": {
+                "No1": {
+                    "Year": "",
+                    "Timestamp": "",
+                    "OilType": "",
+                    "SalesVol": ""
+                }
+            },
+            "Rapeseed": {
+                "No1": {
+                    "Year": "",
+                    "Timestamp": "",
+                    "OilType": "",
+                    "SalesVol": ""
+                }
+            },
+            "Peanuts": {
+                "No1": {
+                    "Year": "",
+                    "Timestamp": "",
+                    "OilType": "",
+                    "SalesVol": ""
+                }
+            }
+        },
+        "OilCons": {
+            "Corn": {
+                "No1": {
+                    "Year": "",
+                    "Timestamp": "",
+                    "OilType": "",
+                    "cons_top1": "",
+                    "cons_top2": "",
+                    "cons_top3": ""
+                }
+            },
+            "Rapeseed": {
+                "No1": {
+                    "Year": "",
+                    "Timestamp": "",
+                    "OilType": "",
+                    "cons_top1": "",
+                    "cons_top2": "",
+                    "cons_top3": ""
+                }
+            },
+            "Peanuts": {
+                "No1": {
+                    "Year": "",
+                    "Timestamp": "",
+                    "OilType": "",
+                    "cons_top1": "",
+                    "cons_top2": "",
+                    "cons_top3": ""
+                }
+            }
+        }
+    },
+    "BrandSalesVol": {
+        "Arawana": {
+            "No1": {
+                "Year": "",
+                "Timestamp": "",
+                "Brand": "",
+                "SalesVol": ""
+            }
+        },
+        "LuHua": {
+            "No1": {
+                "Year": "",
+                "Timestamp": "",
+                "Brand": "",
+                "SalesVol": ""
+            }
+        },
+        "FuLinMen": {
+            "No1": {
+                "Year": "",
+                "Timestamp": "",
+                "Brand": "",
+                "SalesVol": ""
+            }
+        }
+    }
+}
